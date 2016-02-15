@@ -1,0 +1,23 @@
+{
+  "name": "understanding-react",
+  "version": "1.0.0",
+  "description": "Daily exploration of the React source code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshwcomeau/understanding-react.git"
+  },
+  "author": "Joshua Comeau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshwcomeau/understanding-react/issues"
+  },
+  "homepage": "https://github.com/joshwcomeau/understanding-react#readme",
+  "dependencies": {
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7"
+  }
+}
